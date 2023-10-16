@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(14, 101, 107);
+    color: white;
+    user-select: none;
+}
+
+svg {
+    width: 32px;
+    height: 32px;
+}
+
+svg:hover {
+    cursor: pointer;
+}
